@@ -3,17 +3,16 @@
   <img src="./res/ocaml.png" alt="Logo" width="50" style="vertical-align: middle; margin-left: 6px;">
 </h1>
 
-This project was developed as part of a functional programming course at the University of Orléans. It is written in OCaml and uses the [Graphics module](https://ocaml.org/manual/4.03/libref/Graphics.html) for displaying images. The game is a very basic 2D turn-based RPG, where the player (represented by a simple black square) can explore a small world and fight monsters.
+This project was developed as part of a functional programming course at the University of Orléans. It is written in OCaml and uses the [Graphics module](https://ocaml.org/manual/4.03/libref/Graphics.html) for displaying images. The game is a very basic 2D turn-based RPG, where the player (represented by a simple black square) can explore a small world and fight monsters. Here's some screenshots :
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 10px;">
-  <img src="./res/screen1.png" width="300">
-  <img src="./res/screen2.png" width="300">
-</div>
-
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 10px;">
-  <img src="./res/screen3.png" width="300">
-  <img src="./res/screen4.png" width="300">
-</div>
+<p align="center">
+  <img src="./res/screen1.png" width="400">
+  <img src="./res/screen2.png" width="400">
+</p>
+<p align="center">
+  <img src="./res/screen3.png" width="400">
+  <img src="./res/screen4.png" width="400">
+</p>
 
 ### 📋 Requirements
 
